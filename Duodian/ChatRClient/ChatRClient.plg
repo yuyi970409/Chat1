@@ -1,0 +1,29 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: ChatRClient - Win32 Debug--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating temporary file "C:\Users\ADMINI~1\AppData\Local\Temp\RSP4C4F.tmp" with contents
+[
+/nologo /subsystem:windows /incremental:yes /pdb:"Debug/ChatRClient.pdb" /debug /machine:I386 /out:"Debug/ChatRClient.exe" /pdbtype:sept 
+.\Debug\ChatCSocket.obj
+.\Debug\ChatRClient.obj
+.\Debug\ChatRClientDlg.obj
+.\Debug\StdAfx.obj
+.\Debug\ChatRClient.res
+.\Debug\Msg.obj
+]
+Creating command line "link.exe @C:\Users\ADMINI~1\AppData\Local\Temp\RSP4C4F.tmp"
+<h3>Output Window</h3>
+Linking...
+
+
+
+<h3>Results</h3>
+ChatRClient.exe - 0 error(s), 0 warning(s)
+</pre>
+</body>
+</html>

@@ -1,0 +1,32 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: ChatRServer - Win32 Debug--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating command line "rc.exe /l 0x804 /fo"Debug/ChatRServer.res" /d "_DEBUG" /d "_AFXDLL" "C:\Users\Administrator\Desktop\ChatRServer\ChatRServer.rc"" 
+Creating temporary file "C:\Users\ADMINI~1\AppData\Local\Temp\RSP89DD.tmp" with contents
+[
+/nologo /subsystem:windows /incremental:yes /pdb:"Debug/ChatRServer.pdb" /debug /machine:I386 /out:"Debug/ChatRServer.exe" /pdbtype:sept 
+.\Debug\ChatCSocket.obj
+.\Debug\ChatLSocket.obj
+.\Debug\ChatRServer.obj
+.\Debug\ChatRServerDlg.obj
+.\Debug\Msg.obj
+.\Debug\StdAfx.obj
+.\Debug\ChatRServer.res
+]
+Creating command line "link.exe @C:\Users\ADMINI~1\AppData\Local\Temp\RSP89DD.tmp"
+<h3>Output Window</h3>
+Compiling resources...
+Linking...
+
+
+
+<h3>Results</h3>
+ChatRServer.exe - 0 error(s), 0 warning(s)
+</pre>
+</body>
+</html>
